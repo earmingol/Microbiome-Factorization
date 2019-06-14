@@ -20,4 +20,4 @@ For more info, [check the original repo](https://github.com/reptalex/phylofactor
 - Data preprocessing used before the factorization methods is available in 
 [this notebook](./notebooks/DataPreprocessing-pH.ipynb).
 - To execute PhyloFactor and generate predictive models, see examples in the [notebooks folder](./notebooks/).
-- To execute DEICODE + Qurro, [follow this instructions](./src/deicode/).
+- To execute DEICODE + Qurro, [follow these instructions](./src/deicode/).

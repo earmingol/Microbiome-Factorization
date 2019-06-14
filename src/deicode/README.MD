@@ -18,7 +18,7 @@ conda activate qiime2-2019.1
 **When having a .biom feature file, run thi:s**
 
 ```
-ROOT=/PhyFactor-Analysis/directory/  # MODIFY THIS!
+ROOT=/Microbiome-Factorization/directory/  # MODIFY THIS!
 $ROOT/src/deicode/run_deicode.sh \
   -i $ROOT/data/pH_study/OTUs_table.biom \
   -m $ROOT/data/pH_study/metadata.txt \
@@ -31,7 +31,7 @@ $ROOT/src/deicode/run_deicode.sh \
 **When having a .tsv or other table format, run this (data available after running DataPreprocessing notebook):**
 
 ```
-ROOT=/PhyFactor-Analysis/directory/  # MODIFY THIS!
+ROOT=/Microbiome-Factorization/directory/  # MODIFY THIS!
 $ROOT/src/deicode/run_deicode.sh \
   -i $ROOT/outputs/filtered_OTUs_table.tsv \
   -c "#OTU ID" \
@@ -41,3 +41,6 @@ $ROOT/src/deicode/run_deicode.sh \
   -p PhClasses \
   -q yes
 ```
+
+**Then, you can visualize the results of either DEICODE (deicode_biplot.qzv) or Qurro (qurro_plot_q2.qzv) loading
+the respective files on the [Emperor online tool of Qiime2](https://view.qiime2.org/).
