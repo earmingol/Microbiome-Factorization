@@ -1,0 +1,40 @@
+FACTOR 1 : k__Bacteria; p__Actinobacteria; c__Rubrobacteria
+FACTOR 2 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__Balneimonas; s__
+FACTOR 3 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__Balneimonas
+FACTOR 4 : k__Bacteria; p__Acidobacteria; c__[Chloracidobacteria]
+FACTOR 5 : k__Bacteria; p__Cyanobacteria
+FACTOR 6 : k__Bacteria; p__Acidobacteria; c__[Chloracidobacteria]
+FACTOR 7 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__Balneimonas; s__
+FACTOR 8 : k__Bacteria; p__Acidobacteria; c__[Chloracidobacteria]
+FACTOR 9 : k__Bacteria; p__Firmicutes
+FACTOR 10 : k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Gallionellales
+FACTOR 11 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__Bradyrhizobium; s__
+FACTOR 12 : k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria
+FACTOR 13 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__
+FACTOR 14 : k__Bacteria; p__Acidobacteria; c__[Chloracidobacteria]
+FACTOR 15 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Acidobacteriaceae; g__; s__
+FACTOR 16 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__; s__
+FACTOR 17 : k__Bacteria; p__Bacteroidetes FACTOR 17 : k__Bacteria; p__Gemmatimonadetes
+FACTOR 18 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Rhodoplanes; s__
+FACTOR 19 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__
+FACTOR 20 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__Bradyrhizobium; s__
+FACTOR 21 : k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__
+FACTOR 22 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria
+FACTOR 23 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__
+FACTOR 24 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__
+FACTOR 25 : k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria
+FACTOR 26 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__
+FACTOR 27 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__
+FACTOR 28 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__
+FACTOR 29 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__
+FACTOR 30 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae; g__; s__
+FACTOR 31 : k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__
+FACTOR 32 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae
+FACTOR 33 : k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Rhodoplanes; s__
+FACTOR 34 : k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__
+FACTOR 35 : k__Bacteria; p__Gemmatimonadetes
+FACTOR 36 : k__Bacteria; p__Acidobacteria; c__Acidobacteriia; o__Acidobacteriales; f__Koribacteraceae
+FACTOR 37 : k__Bacteria; p__Actinobacteria
+FACTOR 38 : k__Bacteria; p__Acidobacteria; c__[Chloracidobacteria]
+FACTOR 39 : k__Bacteria; p__Acidobacteria; c__DA052; o__Ellin6513; f__; g__; s__
+FACTOR 40 : k__Bacteria; p__Acidobacteria; c__Solibacteres
