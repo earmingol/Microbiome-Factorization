@@ -1,7 +1,8 @@
 # Factorization of microbiome datasets
 
-This repo was created to exemplify how to use two factorization methods on microbiome datasets. The codes
-of these examples were generated during my lab rotation at Rob Knight's Lab - Spring 2019.
+This repo was created to exemplify how to use two factorization methods on microbiome datasets. Also,
+ to generate a Random Forest model from them.
+The codes of these examples were generated during my lab rotation at Rob Knight's Lab - Spring 2019.
 
 **Here, you can find examples of using [PhyloFactor](https://github.com/reptalex/phylofactor) and
  [DEICODE](https://github.com/biocore/DEICODE) to analyze a 
