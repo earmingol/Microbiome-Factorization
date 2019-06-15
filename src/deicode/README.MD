@@ -18,7 +18,8 @@ conda activate qiime2-2019.1
 **When having a .biom feature file, run thi:s**
 
 ```
-ROOT=/Microbiome-Factorization/directory/  # MODIFY THIS!
+# MODIFY PATH IN ROOT
+ROOT=/Users/earmingol/Dropbox/Universidad/UCSanDiego/Lab_Knight/Microbiome-Factorization/
 $ROOT/src/deicode/run_deicode.sh \
   -i $ROOT/data/pH_study/OTUs_table.biom \
   -m $ROOT/data/pH_study/metadata.txt \
@@ -31,7 +32,8 @@ $ROOT/src/deicode/run_deicode.sh \
 **When having a .tsv or other table format, run this (data available after running DataPreprocessing notebook):**
 
 ```
-ROOT=/Microbiome-Factorization/directory/  # MODIFY THIS!
+# MODIFY PATH IN ROOT
+ROOT=/Users/earmingol/Dropbox/Universidad/UCSanDiego/Lab_Knight/Microbiome-Factorization/
 $ROOT/src/deicode/run_deicode.sh \
   -i $ROOT/outputs/filtered_OTUs_table.tsv \
   -c "#OTU ID" \
