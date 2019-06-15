@@ -44,5 +44,6 @@ $ROOT/src/deicode/run_deicode.sh \
   -q yes
 ```
 
-**Then, you can visualize the results of either DEICODE (deicode_biplot.qzv) or Qurro (qurro_plot_q2.qzv) loading
-the respective files on the [Emperor online tool of Qiime2](https://view.qiime2.org/).
+**Then, you can visualize the results of either DEICODE ([deicode_biplot.qzv](../../outputs/DEICODE/deicode_biplot.qzv))
+or Qurro ([qurro_plot_q2.qzv](../../outputs/DEICODE/qurro_plot_q2.qzv)) loading
+the respective files on the [Emperor online tool of Qiime2](https://view.qiime2.org/).**
