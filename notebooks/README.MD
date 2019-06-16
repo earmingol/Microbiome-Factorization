@@ -9,7 +9,8 @@ the analyses. This includes filtering steps and train-test splitting.
 and generate the outputs in the respective path.
 
 - Run codes in [Plotting-PhyloFactor-pH notebook](Plotting-PhyloFactor-pH.ipynb) to generate the figures
-from PhyloFactor analysis. This includes boxplots for ILR abundances in each Factor, significant factors
+from PhyloFactor analysis (they will be generated in the [folder for PhyloFactor outputs](../outputs/PhyloFactor)).
+ This includes boxplots for ILR abundances in each Factor, significant factors
 highlighted in the phylogenetic tree and a heatmap showing them according to samples sorted by phenotype values.
 
 - Finally, generate the PR Curves for the predictive models suing the [PrecisonRecallCurve-pH](PrecisionRecallCurve-pH.ipynb).
